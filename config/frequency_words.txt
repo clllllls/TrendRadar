@@ -1,32 +1,24 @@
-DeepSeek
-Doubao
-通义千问
-Kimi
+二游
+米哈游
+原神
+崩坏：星穹铁道
+绝区零
 
-华为
-鸿蒙
-HarmonyOS
+动漫
+日本动漫
 
-比亚迪
+音乐
+摇滚音乐
+独立音乐
 
-宇树
-王兴兴
+游戏
+STEAM游戏
+游戏打折
 
-智元
-灵犀
-稚晖君
-彭志辉
+ai
+!gai
+人工智能
 
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-OpenAI
 
 英伟达
 NVIDIA
@@ -37,9 +29,8 @@ NVIDIA
 内存
 固态
 
-AMD
-Inter
-CPU
+特斯拉
+马斯克
 
 谷歌
 google
@@ -53,28 +44,35 @@ sora
 claude
 Anthropic
 
+微软
+Microsoft
+OpenAI
+
+AMD
+Inter
+CPU
+
+DeepSeek
+Doubao
+通义千问
+Kimi
+
+字节
+bytedance
+张一鸣
+
 ios
 
-ai
-!gai
-人工智能
+华为
+鸿蒙
+HarmonyOS
+
+智元
+灵犀
+稚晖君
+彭志辉
 
 科技
 
-动漫
-日本动漫
-
-音乐
-摇滚音乐
-独立音乐
-
 电影
 热门电影
-
-米哈游
-原神
-崩坏：星穹铁道
-绝区零
-
-STEAM游戏
-游戏打折
