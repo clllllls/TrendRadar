@@ -1,6 +1,6 @@
 DeepSeek
 Doubao
-Qwen
+通义千问
 Kimi
 
 华为
@@ -17,12 +17,6 @@ HarmonyOS
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-京东
-刘强东
-
 字节
 bytedance
 张一鸣
@@ -32,12 +26,20 @@ bytedance
 
 微软
 Microsoft
+OpenAI
 
 英伟达
 NVIDIA
 黄仁勋
 
+显卡
+主机硬件
+内存
+固态
+
 AMD
+Inter
+CPU
 
 谷歌
 google
@@ -51,25 +53,11 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
 ios
 
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
 
 科技
 
