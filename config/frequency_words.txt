@@ -15,10 +15,12 @@
 STEAM游戏
 游戏打折
 
-ai
-!gai
 人工智能
-
+ai
++技术
+!广告
+!培训
+!gai
 
 英伟达
 NVIDIA
@@ -36,13 +38,16 @@ NVIDIA
 google
 gemini
 deepmind
+!广告
 
 chatgpt
 openai
 sora
+!广告
 
 claude
 Anthropic
+!广告
 
 微软
 Microsoft
@@ -52,10 +57,21 @@ AMD
 Inter
 CPU
 
+世界杯
+英超
+欧冠
++比赛
+
+NBA
++比赛
+
 DeepSeek
 Doubao
 通义千问
 Kimi
++技术
+!广告
+!培训
 
 字节
 bytedance
@@ -66,11 +82,24 @@ ios
 华为
 鸿蒙
 HarmonyOS
++发布
++技术
+!广告
+!培训
+
+iphone
+OPPO
+一加
+xiaomi
++发布
 
 智元
 灵犀
 稚晖君
 彭志辉
++技术
+!广告
+!培训
 
 科技
 
